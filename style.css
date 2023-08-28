@@ -1,0 +1,29 @@
+.heading{
+    width: 100%;
+    margin: 0px;
+    height: 100px;
+}
+.AI{
+    font-size: 28px;
+}
+.sent{
+    font-size:13px ;
+}
+.footer{
+    position: fixed;
+    color: gray;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 80px;
+    box-shadow: 5px 5px 5px white;
+}
+body{
+    background-size : cover;
+}
